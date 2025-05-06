@@ -1,4 +1,5 @@
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hello! I am a PhD student currently working in audio engineering. I utilise deep learning and signal processing techniques to solve problems in audio and speech. I am also interested in machine learning, computer vision, and natural language processing.
+I am open to collaboration and research opportunities. Please feel free to reach out to me via email or connect with me on LinkedIn.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
