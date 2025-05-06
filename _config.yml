@@ -191,6 +191,8 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
+  - _posts/
+  - _news/
   - _projects/?_project.md
   - assets/jupyter/blog.ipynb
 keep_files:
