@@ -5,7 +5,7 @@
     "image": "",
     "email": "mishra.mayank1903@gmail.com",
     "phone": "+91-8120615603",
-    "url": "https://github.com/mishramayank1903/mishramayank1903.github.io/actions/runs/13546403788",
+    "url": "https://mishramayank1903.github.io/",
     "summary": "Doctoral student at multispeech team, LORIA, Nancy, France",
     "location": {
       "address": "216, CU Médreville, 28 Rue A.Briand",
@@ -26,8 +26,8 @@
       "name": "Laboratoire Lorraine de recherche en informatique et ses applications (LORIA)",
       "position": "Doctoral candidate",
       "url": "https://team.inria.fr/multispeech/",
-      "startDate": "01-12-2024",
-      "endDate": "01-12-2027",
+      "startDate": "12-2024",
+      "endDate": "12-2027",
       "summary": "Thesis title: Semantic Segmentation of Audio Scenes on Edge Devices",
       "highlights": ["Audio source separation", "Audio scene analysis", "Deep learning for audio source separation"]
     },
@@ -35,8 +35,8 @@
       "name": "Laboratoire Lorraine de recherche en informatique et ses applications (LORIA)",
       "position": "Intern",
       "url": "https://team.inria.fr/multispeech/",
-      "startDate": "08-04-2024",
-      "endDate": "01-08-2024",
+      "startDate": "04-2024",
+      "endDate": "08-2024",
       "summary": "The focus of the internship was to benchmark several sound separation deep neural network (DNN)-based algorithms according to their carbon energy footprint, to ﬁnd a robust and eﬃcient model for the Universal sound separation task. This model can be further used in combination with speech enhancement systems to aid automatic speech recognition (ASR).",
       "highlights": ["Audio source separation", "Carbon footprint", "Deep learning for audio source separation", "Energy consumption"]
     },
@@ -44,8 +44,8 @@
       "name": "laboratoire de recherche en informatique pour la santé (LIMICS)",
       "position": "Summer Intern",
       "url": "https://www.limics.fr/",
-      "startDate": "01-06-2023",
-      "endDate": "01-08-2023",
+      "startDate": "06-2023",
+      "endDate": "08-2023",
       "summary": "Internship on understanding complexity based analogical transfer (CoAT) algorithm for analogical transfers and metric learning. Approach towards getting theoretical and experimental results on improving the eﬃciency of the algorithm.",
       "highlights": ["Analogical transfer", "Machine learning", "Metric learning"]
     },
@@ -53,8 +53,8 @@
       "name": "Cerebry India Pvt. Ltd.",
       "position": "Senior Content Developer",
       "url": "https://www.linkedin.com/company/cerebry/?originalSubdomain=sg",
-      "startDate": "01-05-2021",
-      "endDate": "01-09-2022",
+      "startDate": "05-2021",
+      "endDate": "09-2022",
       "summary": "Analysis, structuring and development of content for the online automated Q/A generation platform of the company. Also carried out task allocation, supervision and troubleshooting for a team of 7 members and training of new employees in the content group.",
       "highlights": ["Team Management", "Content development", "Training of freshmen"]
     }
@@ -66,8 +66,8 @@
       "url": "https://idmc.univ-lorraine.fr/",
       "area": "Natural Language Processing (NLP)",
       "studyType": "Masters",
-      "startDate": "01-0-10-2022",
-      "endDate": "01-08-2024"
+      "startDate": "10-2022",
+      "endDate": "08-2024"
     },
     {
       "institution": "Indian Institute of Science Education and Research (IISER), Bhopal",
@@ -75,8 +75,8 @@
       "url": "https://www.iiserb.ac.in/",
       "area": "Mathematics & Physics",
       "studyType": "BS-MS Dual Degree",
-      "startDate": "01-08-2013",
-      "endDate": "01-08-2018"
+      "startDate": "08-2013",
+      "endDate": "08-2018"
     }
   ],
   "certificates": [
@@ -165,23 +165,23 @@
   ],
   "references": [
     {
-      "name": "Professor Romain Serizel",
-      "icon": "fa-solid fa-envelope",
-      "email": "rserizel@loria.fr"
+      "name": "Dr. Romain Serizel",
+      "reference": "rserizel@loria.fr",
+      "icon": "fa-solid fa-envelope"
     },
     {
-      "name": "Professor Siddhartha Sarkar",
-      "icon": "fa-solid fa-envelope",
-      "reference": "sidhu@iiserb.ac.in"
+      "name": "Dr. Siddhartha Sarkar",
+      "reference": "sidhu@iiserb.ac.in",
+      "icon": "fa-solid fa-envelope"
     }
   ],
   "projects": [
     {
       "name": "DCASE 2025",
       "summary": "Task 4: Spatial Semantic Segmentation of Sound Scenes",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "01-03-2025",
-      "endDate": "01-07-2025",
+      "highlights": ["Evaluation metric", "Audio source separation"],
+      "startDate": "03-2025",
+      "endDate": "07-2025",
       "url": "https://dcase.community/challenge2025/task-spatial-semantic-segmentation-of-sound-scenes"
     }
   ]
