@@ -197,6 +197,7 @@ exclude:
   - assets/jupyter/blog.ipynb
   - _includes/news.liquid
   - _pages/blog.md
+  - _pages/news.md
 keep_files:
   - CNAME
   - .nojekyll
