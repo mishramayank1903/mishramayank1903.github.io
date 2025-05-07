@@ -27,7 +27,7 @@ social: true # includes social icons at the bottom of the page
 #   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hello! I am a PhD student currently working in audio engineering. I utilise deep learning and signal processing techniques to solve problems in audio and speech. I am also interested in machine learning, computer vision, and natural language processing.
+Hello there! I am a PhD student currently working in audio engineering. I utilise deep learning and signal processing techniques to solve problems in audio and speech. I am also interested in machine learning, computer vision, and natural language processing.
 
 Previously, I worked in pure mathematics and am always eager to learn and discuss mathematics. With my current work, I am able to more appreciate the omnipresence of mathematics in almost all areas of research. 
 
