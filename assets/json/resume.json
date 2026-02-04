@@ -29,7 +29,7 @@
       "startDate": "12-2024",
       "endDate": "12-2027",
       "summary": "Thesis title: Semantic Segmentation of Audio Scenes on Edge Devices",
-      "highlights": ["Audio source separation", "Audio scene analysis", "Deep learning for audio source separation"]
+      "highlights": ["Audio source separation and scene analysis", "Deep learning for audio source separation", "Metrics for spatial semantic segmentation of sound scenes"]
     },
     {
       "name": "Laboratoire Lorraine de recherche en informatique et ses applications (LORIA)",
@@ -46,7 +46,7 @@
       "url": "https://www.limics.fr/",
       "startDate": "06-2023",
       "endDate": "08-2023",
-      "summary": "Internship on understanding complexity based analogical transfer (CoAT) algorithm for analogical transfers and metric learning. Approach towards getting theoretical and experimental results on improving the eﬃciency of the algorithm.",
+      "summary": "Internship on understanding complexity-based analogical transfer (CoAT) algorithm for analogical transfers and metric learning. Approach towards getting theoretical and experimental results on improving the eﬃciency of the algorithm.",
       "highlights": ["Analogical transfer", "Machine learning", "Metric learning"]
     },
     {
@@ -55,7 +55,7 @@
       "url": "https://www.linkedin.com/company/cerebry/?originalSubdomain=sg",
       "startDate": "05-2021",
       "endDate": "09-2022",
-      "summary": "Analysis, structuring and development of content for the online automated Q/A generation platform of the company. Also carried out task allocation, supervision and troubleshooting for a team of 7 members and training of new employees in the content group.",
+      "summary": "Analysis, structuring, and development of content for the online automated Q/A generation platform of the company. Also carried out task allocation, supervision and troubleshooting for a team of 7 members and training of new employees in the content group.",
       "highlights": ["Team Management", "Content development", "Training of freshmen"]
     }
   ],
@@ -93,7 +93,7 @@
       "url": "https://app.fruitpunch.ai/profile/c189d7b8-a795-43f2-9e1c-ad39e4bce6fc/certificate/a5c67a72-0dad-4116-9929-0b6421398ef9/?aid=sNRexjPpimGsqG9oBz8p4epijlLl"
     },
     {
-      "name": "Fundamentals of Quantative Modeling",
+      "name": "Fundamentals of Quantitative Modeling",
       "date": "28-02-2022",
       "issuer": "Wharton School, University of Pennsylvania (Coursera)",
       "url": "https://www.coursera.org/account/accomplishments/verify/MT37XKKYCPRC"
@@ -113,6 +113,13 @@
       "url": "https://link.springer.com/article/10.1007/s10801-022-01158-7",
       "summary": "An L(2, 1)-labelling of a finite graph is a function that assigns integer values to the vertices V(gamma)of gamma (colouring of V(gamma) by Z) so that the absolute difference of two such values is at least 2 for adjacent vertices and is at least 1 for vertices, which are precisely distance 2 apart. The lambda number lambda(gamma) of gamma measures the least number of integers needed for such a labelling (colouring). A power graph of a finite group G is a graph with vertex set as the elements of G and two vertices are joined by an edge if and only if one of them is a positive integer power of the other. It is known that for any finite group. In this paper, we show that if G is a finite group of a prime power order, then lambda(gamma_G) = |G| if and only if G is neither cyclic nor a generalized quaternion 2-group. This settles a partial classification of finite groups achieving the lower bound of lambda number."
     }
+    {
+      "name": "Description and Discussion on DCASE 2025 Challenge Task 4: Spatial Semantic Segmentation of Sound Scenes", 
+      author={Masahiro Yasuda and Binh Thien Nguyen and Noboru Harada and Romain Serizel and Mayank Mishra and Marc Delcroix and Shoko Araki and Daiki Takeuchi and Daisuke Niizumi and Yasunori Ohishi and Tomohiro Nakatani and Takao Kawamura and Nobutaka Ono},
+      "releaseDate": "March 2025",
+      "url": "https://arxiv.org/abs/2506.10676",
+      "summary": "Spatial Semantic Segmentation of Sound Scenes (S5) aims to enhance technologies for sound event detection and separation from multi-channel input signals that mix multiple sound events with spatial information. This is a fundamental basis of immersive communication. The ultimate goal is to separate sound event signals with 6 Degrees of Freedom (6DoF) information into dry sound object signals and metadata about the object type (sound event class) and representing spatial information, including direction. However, because several existing challenge tasks already provide some of the subset functions, this task for this year focuses on detecting and separating sound events from multi-channel spatial input signals. This paper outlines the S5 task setting of the Detection and Classification of Acoustic Scenes and Events (DCASE) 2025 Challenge Task 4 and the DCASE2025 Task 4 Dataset, newly recorded and curated for this task. We also report experimental results for an S5 system trained and evaluated on this dataset. The full version of this paper will be published after the challenge results are made public."
+}
   ],
   "skills": [
     {
@@ -159,7 +166,7 @@
     },
     {
       "language": "French",
-      "fluency": "Beginner",
+      "fluency": "A2",
       "icon": ""
     }
   ],
