@@ -29,7 +29,11 @@
       "startDate": "12-2024",
       "endDate": "12-2027",
       "summary": "Thesis title: Semantic Segmentation of Audio Scenes on Edge Devices",
-      "highlights": ["Audio source separation and scene analysis", "Deep learning for audio source separation", "Metrics for spatial semantic segmentation of sound scenes"]
+      "highlights": [
+        "Audio source separation and scene analysis",
+        "Deep learning for audio source separation",
+        "Metrics for spatial semantic segmentation of sound scenes"
+      ]
     },
     {
       "name": "Laboratoire Lorraine de recherche en informatique et ses applications (LORIA)",
@@ -85,7 +89,7 @@
       "date": "16-01-2025",
       "issuer": "FruitPunch AI",
       "url": "https://app.fruitpunch.ai/profile/c189d7b8-a795-43f2-9e1c-ad39e4bce6fc/certificate/e3325bb4-7e06-4cee-9ba4-b1d816686717/?aid=sNRexjPpimGsqG9oBz8p4epijlLl"
-    },  
+    },
     {
       "name": "AI for Greener Datacenters Certificate",
       "date": "28-08-2024",
@@ -126,32 +130,17 @@
     {
       "name": "Programming Languages",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Python",
-        "R",
-        "C++",
-        "HTML"
-      ]
+      "keywords": ["Python", "R", "C++", "HTML"]
     },
     {
       "name": "Tools",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Latex",
-        "Mathematica & Matlab",
-        "MongoDB",
-        "Git, GitHub & GitLab"
-      ]
+      "keywords": ["Latex", "Mathematica & Matlab", "MongoDB", "Git, GitHub & GitLab"]
     },
     {
       "name": "Python Libraries",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Pandas & Numpy",
-        "Keras",
-        "Scikit-Learn",
-        "Pytorch & Tensorflow"
-      ]
+      "keywords": ["Pandas & Numpy", "Keras", "Scikit-Learn", "Pytorch & Tensorflow"]
     }
   ],
   "languages": [
