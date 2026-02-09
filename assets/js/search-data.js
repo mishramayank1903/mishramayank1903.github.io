@@ -30,8 +30,8 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/repositories/";
           },
-        },{id: "nav-cv",
-          title: "cv",
+        },{id: "nav-mayank-mishra-39-s-cv",
+          title: "Mayank Mishra&#39;s CV",
           description: "Click on the pdf icon alongside to get a pdf version of the CV.",
           section: "Navigation",
           handler: () => {
